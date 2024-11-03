@@ -1,0 +1,14 @@
+.venv/
+.idea/
+.zip
+.ipynb_checkpoints/
+
+*.jpg
+*.png
+*.xlsx
+*.xls
+*.docx
+*.doc
+*.zip
+*.rar
+
